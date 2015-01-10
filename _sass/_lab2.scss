@@ -1,0 +1,47 @@
+
+$primary-color: #007295;
+$my-radius: 6px;
+$post-color: #D8D8D8;
+$charcoal:#484848;
+
+span.post-meta{
+color:$primary-color;
+}
+
+	
+div.trigger {
+ background-color: $grey-color-light;
+}
+
+.page-link {
+   background-color: $grey-color-light;
+   height: 50px;
+   width: 100px;
+}
+
+.site-title {
+	color: $post-color !important;
+	background-color: $charcoal;
+	width:300px;
+	padding-left:50px;
+}
+.site-header {
+	background-color: $primary-color;
+	
+}
+
+section {
+	margin-left: 250px;
+}
+
+
+
+a.post-link{
+	color: $post-color;
+    display:block;
+	margin-left:200px;
+	border: 6px solid $primary-color;
+	border-radius: $my-radius;
+	width:300px;
+	background-color: $primary-color;
+}
