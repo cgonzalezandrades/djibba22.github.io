@@ -2,7 +2,7 @@
 title: BloggaTron 
 email: johndinsmore@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- This is my extremely awesome blog. I write all kinds of fantastic things about the world of web development and the cool new tool available. Tune in and learn a ton!
+ Welcome to my FullSail Dairy. I will be documenting my projects and experiences as I go through my program. I have been looking for a place like this to build a reference to al the fun thigs I will be doing here at FullSail. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
