@@ -4,12 +4,7 @@ $my-radius: 6px;
 $post-color: #D8D8D8;
 $charcoal:#484848;
 
-section{
-	margin-left:150px;
-	img{
-		margin-left: 250px;
-	}
-}
+
 span.post-meta{
 color:$primary-color;
 }
@@ -25,12 +20,7 @@ div.trigger {
    width: 100px;
 }
 
-.site-title {
-	color: $post-color !important;
-	background-color: $charcoal;
-	width:300px;
-	padding-left:50px;
-}
+
 .site-header {
 	background-color: $primary-color;
 	
