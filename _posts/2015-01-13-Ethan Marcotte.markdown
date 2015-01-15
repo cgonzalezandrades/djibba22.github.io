@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "Ethan Marcott"
-date:   2015-01-13  24:00:00
+date:   2015-01-15  2:00:00
 categories: jekyll update
 ---
 # My hero, Ethan Marcotte
-#Web Designer, Author,Speaker
- ## He is an Web
+Web Designer, Author,Speaker
+ 
     1. He is an independent Web Designer with clientele like New York Magazine, the Sundance Film Festival, The Boston Globe, and People Magazine. Ethan can be found on Twitter or you can read his most recent book is Responsive Web Design.
-    Do they have a blog? A list Apart
-    Do they have a github, twitter, or facebook professional presence?
-    Do they have a podcast or an article they participate in?
-    What are some of their popular posts, books, or conference talks?
-    What did you takeaway from reading about this person? For instance, did they help change your opinion on a topic, give you an insight into a new area of interest, or perhaps did they give you an inspiration for your own personal career?
+    2. His personal blog is the Unstoppable robot ninja. He is also a huge contributer to a list apart.
+    3. He has an enourmous twitter following of 661.5k followers. He is one of the largest.
+    4. Ethan is one of the main contributors to "a list apart" which is an online article.
+    5. His books are"Responsive Web Design", "Designing with web standards", and Handcrafted CSS.
+    6. I took away how important it is to maintain a good stance in the community on the web. Whatever I can contribute, I will need to do so as often as possibe. 
 
 
 
