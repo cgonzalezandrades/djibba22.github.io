@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Information Architecture and SEO"
+date:   2015-01-22 11:00:00
+categories: jekyll update
+---
+# Articles of Interest
+<h2>Information Architecture</h2>
+<h1> From:The Guardian </h1>
+#[The Guardian](http://theguardian.com/ "The Guardian")
+
+In this article, information Architecture is defined as the art and science of organizing and labeling websites,intranets, online communities and software to support usability.This is the definition provided by the 
+ [Information Archetecture Institute](http://iainstitute.org/ "Information Archetecture Institute"). The article goes on to say that traditionally it is made up of the elements that go into a website and these work together. Context, Content and the users represent the information that is all cooordinated by the architecture.
+
+ <h2>Rich Snippets</h2>
+ <h1> Mar 15, 2013
+By Robert Valcourt</h1>
+#[Custom Fit](http://www.customfitonline.com/news/2013/3/15/the-power-of-richtext-snippets/ "Custom Fit")
+ in this article explains how you can use specific markup for improved search results. There are specific ways to use markup in order for search engines such as google to improve search results. These "Rich Snippets" of code are not actually visible on the page. They are in the markup, in the background, inside of the HTML code. These snippets of code are read by the browser  along with head and title information. This can be very beneficial to sites that are dependant on traffic.
+ 
+   
+
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
