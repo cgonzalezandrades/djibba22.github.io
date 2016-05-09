@@ -1,8 +1,8 @@
 # Site settings
-title: BloggaTron 
+title: BloggaTron
 email: johndinsmore@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Welcome to my FullSail Dairy. I will be documenting my projects and experiences as I go through my program. I have been looking for a place like this to build a reference to al the fun thigs I will be doing here at FullSail. 
+ This site is built with Jeckyll and is hosted on GitHub with GitHub Pages at Github.io. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
@@ -10,5 +10,3 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-
-
